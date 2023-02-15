@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="secondPage" size="0.210000 0.271630" />
+    <ImageTarget name="firstPage" size="0.210000 0.313732" />
+    <ImageTarget name="contentAneurysm" size="0.200000 0.298309" />
+    <ImageTarget name="test1" size="0.210000 0.279894" />
+    <ImageTarget name="map" size="0.210000 0.118125" />
+    <ImageTarget name="puzzle" size="0.210000 0.118125" />
+    <ImageTarget name="HL" size="0.210000 0.280110" />
+  </Tracking>
+</QCARConfig>
